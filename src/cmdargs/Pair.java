@@ -4,7 +4,7 @@ package cmdargs;
  *
  * @author ΙΩΑΝΝΑ
  */
-public class Pair <S,P>{
+public class Pair <S,P>{ // constactor me pair
     private S sign;
     private P price;
            
